@@ -1,16 +1,14 @@
-## Hi there 👋
-
 
 # Oioii me chama Gabriela 👋
 [Snake animation](https://github.com/Eugranola/EuGranola/blob/output/github-contribution-grid-snake.svg)
-### Jovem Desenvolvedora de Software | IFSP-SP
+### Jovem Desenvolvedora de Sistemas| IFSP-SP
 
 ---
 
 ## 🚀 Sobre Mim
 
-**tenho 16 anos 🚀**
- Sou aluna de Desenvolvimento de sitemas integrado oa ensino médio no **IFSP - Campus São Paulo** 🎓. Tenho inglês intermediario e sou desenvolvera
+**tenho 16 anos **
+ Sou aluna de Desenvolvimento de sitemas integrado ao ensino médio no **IFSP - Campus São Paulo** 🎓. Tenho inglês intermediario e sou desenvolvera
 **Python** 🐍 e **Linguagem C** ⚙️.
 Construindo projetos e buscando expandir meus horizontes!
 Uso esses dois softwares:
@@ -43,8 +41,8 @@ Aqui estão as principais ferramentas e linguagens que utilizo nos meus projetos
 
 <div>
 <a href="https://github.com/EuGranola">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuGranola&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=EuGranola&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ## 💡 Projetos em Destaque
@@ -84,10 +82,10 @@ Estou sempre aberta a novas ideias e oportunidades de colaboração!
 
 | Plataforma | Link |
 | :--- | :--- |
-| **LinkedIn** 💼 | [Seu Perfil do LinkedIn](https://www.linkedin.com/in/seu-perfil/) |
-| **Email** 📧 | [seu.email@exemplo.com](mailto:seu.email@exemplo.com) |
-| **[Outra Plataforma]** | [Link para Outra Plataforma] |
+| **LinkedIn** 💼 | [ Meu perfil do LinkedIn](https://www.linkedin.com/in/gabriela-silvestre-correa-515566392/) |
+| **Email** 📧 | [Meu email](gabriela.dpaula.scorrea@gmail.com) |
+| **Instagram** | [Meu perfil do Instagram](https://www.instagram.com/eugranola/)|
 
 ***
 
-✨ Feito com paixão por código!
+
