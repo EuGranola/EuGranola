@@ -6,9 +6,12 @@
 
 ## 🚀 Sobre Mim
 
-**tenho 16 anos **
- Sou aluna de Desenvolvimento de sitemas integrado ao ensino médio no **IFSP - Campus São Paulo** 🎓. Tenho inglês intermediario e sou desenvolvedora
+Tenho 16 anos
+---
+ Sou aluna de Desenvolvimento de sitemas integrado ao ensino médio no **IFSP - Campus São Paulo** 🎓. 
+ Tenho inglês intermediario e sou desenvolvedora
 **Python** 🐍 e **Linguagem C** ⚙️.
+
 Construindo projetos e buscando expandir meus horizontes!
 ---
 Uso esses dois softwares:
@@ -41,6 +44,7 @@ Aqui estão as principais ferramentas e linguagens que utilizo nos meus projetos
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuGranola&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=EuGranola&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+---
 ---
 ## 💡 Projetos em Destaque
 
@@ -75,11 +79,12 @@ Confira alguns dos meus trabalhos mais recentes. Sinta-se à vontade para explor
 
 Estou sempre aberta a novas ideias e oportunidades de colaboração!
 
-| Plataforma | Link |
-| :--- | :--- |
-| **LinkedIn** 💼 | [ Gabriela dpaula](https://www.linkedin.com/in/gabriela-silvestre-correa-515566392/) |
-| **Email** 📧 | [gabriela.dpaula.scorrea@gmail.com](gabriela.dpaula.scorrea@gmail.com) |
-| **Instagram** | [ Eugranola ](https://www.instagram.com/eugranola/)|
+<div>
+<a href="https://www.youtube.com/channel/UCaASmXjz2UZCzdox_9wNwXQ" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://https://www.instagram.com/eugranola/)%7C" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "gabriela.dpaula.scorrea@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/gabriela-silvestre-correa-515566392/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 ***
 
