@@ -3,7 +3,7 @@
 
 ---
 
-## 🚀 Sobre Mim
+## 🚀 Sobre Mim...
 
 Tenho 16 anos
 ---
@@ -46,7 +46,7 @@ Confira alguns dos meus trabalhos mais recentes. Sinta-se à vontade para explor
 >
 > 🚀 **Linguagens:** `javascript` | `linguagem propria do RPGMaker`
 >
-> **[🔗 Ver Repositório] (https://beatrizminoura-cmyk.github.io/ossos-do-oficio/)**
+> **[🔗 Ver Repositório](https://beatrizminoura-cmyk.github.io/ossos-do-oficio/)**
 
 ### 2. [Site do jogo]
 > Site com a intenção de apresentar o jogo
