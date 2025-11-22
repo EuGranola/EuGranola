@@ -5,7 +5,7 @@
 
 Tenho 16 anos
 ---
- Sou aluna de Desenvolvimento de sitemas integrado ao ensino médio no **IFSP - Campus São Paulo** 🎓. 
+ Sou aluna de Desenvolvimento de sistemas integrado ao ensino médio no **IFSP - Campus São Paulo** 🎓. 
  Tenho inglês intermediario e sou desenvolvedora
 **Python** 🐍 e **Linguagem C** ⚙️.
 
