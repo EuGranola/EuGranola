@@ -22,29 +22,15 @@ Uso esses dois softwares:
 
    e estou sempre disposta a aprender coisas novas.
 ---
-## 🛠️ Minhas Habilidades (Tech Stack)
+## 🛠️ Minhas Habilidades
 
 Aqui estão as principais ferramentas e linguagens que utilizo nos meus projetos:
 
-**Linguagens de Programação** 
-
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="40" height="40"/> 
-          
- <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="40" height="40"/> 
-
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="40" height="40"/> 
-  ---
-   **Ferramentas e Ambientes** 
-           
- 
-  <img loading="lazy" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" "width="40" height="40"/>
-           
-   <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
-   <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
-   Estou estudando:
-     **Bancos de Dados**
+ Categoria | Habilidades |
+| :--- | :--- |
+| *Linguagens de Programação* | Python 🐍, Linguagem C ⚙️, [Java Script] |
+| *Ferramentas e Ambientes* | Git / GitHub, [VS Code],[ Dev C++], [Linux] [ Windows]|
+| *Bancos de Dados* | Estou aprendendo |
 ---
 <div>
 <a href="https://github.com/EuGranola">
