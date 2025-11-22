@@ -34,8 +34,9 @@ Aqui estão as principais ferramentas e linguagens que utilizo nos meus projetos
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="40" height="40"/> 
   ---
-           **Ferramentas e Ambientes** 
-   <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+   **Ferramentas e Ambientes** 
+           
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" "width="40" height="40"/>
            
    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
