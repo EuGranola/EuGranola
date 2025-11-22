@@ -15,10 +15,8 @@ Construindo projetos e buscando expandir meus horizontes!
 ---
 Uso esses dois softwares:
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="40" height="40"/>  
-
-
-<img loading="lazy" src=" https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css " width="40" height="40"/>   
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" 
+           width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>  
 
    e estou sempre disposta a aprender coisas novas.
 ---
