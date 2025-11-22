@@ -35,8 +35,7 @@ Aqui estão as principais ferramentas e linguagens que utilizo nos meus projetos
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuGranola&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=EuGranola&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
----
----
+
 ## 💡 Projetos em Destaque
 
 Confira alguns dos meus trabalhos mais recentes. Sinta-se à vontade para explorar os repositórios!
