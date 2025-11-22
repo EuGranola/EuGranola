@@ -1,6 +1,5 @@
 
-# Oioii me chama Gabriela 👋
-[Eu](https://github.com/EuGranola/EuGranola/blob/main/octocat-1763835967993.png)
+# Oioii devs, me chamo Gabriela 👋
 
 ---
 
@@ -15,20 +14,26 @@ Tenho 16 anos
 Construindo projetos e buscando expandir meus horizontes!
 ---
 Uso esses dois softwares:
-  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-   <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />        
-      e estou sempre disposta a aprender coisas novas.
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="40" height="40"/>  
+
+
+<img loading="lazy" src=" https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css " width="40" height="40"/>   
+
+   e estou sempre disposta a aprender coisas novas.
 ---
 ## 🛠️ Minhas Habilidades (Tech Stack)
 
 Aqui estão as principais ferramentas e linguagens que utilizo nos meus projetos:
 
 **Linguagens de Programação** 
-    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="40" height="40"/> 
           
-   <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-      
-  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+ <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="40" height="40"/> 
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="40" height="40"/> 
+  ---
            **Ferramentas e Ambientes** 
    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
            
