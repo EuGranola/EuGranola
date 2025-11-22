@@ -36,7 +36,8 @@ Aqui estão as principais ferramentas e linguagens que utilizo nos meus projetos
   ---
    **Ferramentas e Ambientes** 
            
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" "width="40" height="40"/>
+ 
+  <img loading="lazy" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" "width="40" height="40"/>
            
    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
@@ -59,23 +60,23 @@ Confira alguns dos meus trabalhos mais recentes. Sinta-se à vontade para explor
 ### 1. [Jogo Ossos do ofício]
 > Meu primeiro projeto grande, feito em equipe, um jogo que auxilia nas materias: Biológia, Quimíca e matemática.
 >
-> 🚀 **Tecnologias:** `javascript` | `linguagem propria do RPGMaker`
+> 🚀 **Linguagens:** `javascript` | `linguagem propria do RPGMaker`
 >
 > **[🔗 Ver Repositório] (https://beatrizminoura-cmyk.github.io/ossos-do-oficio/)**
 
-### 2. [Nome do Projeto 2 - Ex: Automação de Tarefas em C]
-> Uma breve descrição do projeto. Qual o foco: eficiência, baixo nível, etc.
+### 2. [Site do jogo]
+> Site com a intenção de apresentar o jogo
 >
-> ⚙️ **Tecnologias:** `Linguagem C` | `[Tecnologia 2]`
+> ✨ **Linguagens:** `HTML` | `CSS interno`
 >
-> **[🔗 Ver Repositório](https://github.com/seu-usuario/nome-do-repositorio-2)**
+> **[🔗 Ver Repositório](https://github.com/EuGranola/Site-do-jogo-vers-o-final)**
 
-### 3. [Nome do Projeto 3 - Ex: Site Pessoal Simples]
-> Uma breve descrição do projeto. (Use este para projetos menores ou mais recentes).
+### 3. [Pesca Binaria]
+> Um codigo simples em linguagem C para pesquisar valores.
 >
-> ✨ **Tecnologias:** `HTML` | `CSS` | `[JavaScript]`
+> ⚙️ **Linguagens** `Linguagem C` 
 >
-> **[🔗 Ver Repositório](https://github.com/seu-usuario/nome-do-repositorio-3)**
+> **[🔗 Ver Repositório](https://github.com/EuGranola/pesca-binaria-Bubble-Sort-Busca-Binaria-/blob/main/Pescando%20Valores)**
 
 > 
 
