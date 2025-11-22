@@ -1,8 +1,6 @@
 
 # Oioii devs, me chamo Gabriela 👋
-
 ---
-
 ## 🚀 Sobre Mim...
 
 Tenho 16 anos
