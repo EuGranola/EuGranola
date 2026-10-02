@@ -1,6 +1,7 @@
 <div align="center">
 
-# GABRIELA SILVESTRE CORREA
+# GABRIELA SILVESTRE CORREA 
+<img src="https://www.messletters.com/images/backgrounds/body.gif" width="500">
 
 ### `SYSTEMS DEVELOPMENT STUDENT`
 
@@ -13,8 +14,7 @@
 ### `01 // ABOUT ME`
 
 Olá! Eu sou **Gabriela**, tenho **17 anos** e sou estudante de **Desenvolvimento de Sistemas Integrado ao Ensino Médio no IFSP — Campus São Paulo**.
-
-Atualmente, estou construindo minha base no **desenvolvimento de software** enquanto direciono meus estudos para **Cybersecurity**.
+Atualmente, estou construindo minha base no **desenvolvendo softwares** enquanto direciono meus estudos para **Cybersecurity**.
 
 Tenho interesse em tecnologia como um todo e busco sempre entender como posso **construir, analisar e proteger sistemas da melhor maneira possível**.
 
@@ -145,20 +145,3 @@ Tenho interesse em tecnologia como um todo e busco sempre entender como posso **
 `NETWORKING`
 &nbsp; → &nbsp;
 `CYBERSECURITY`
-
-<br><br>
-
-```text
-PROGRAMMING
-     │
-     ▼
-  SYSTEMS
-     │
-     ▼
-   LINUX
-     │
-     ▼
- NETWORKING
-     │
-     ▼
-CYBERSECURITY
