@@ -56,13 +56,12 @@ Tenho interesse em tecnologia como um todo, e busco sempre entender como posso c
 
 <img src="https://skillicons.dev/icons?i=c,python,js,mysql" />
 
-<br><br>
-
+<br>
 ### SYSTEMS
 
 <img src="https://skillicons.dev/icons?i=linux,debian,windows" />
 
-<br><br>
+<br>
 
 ### TOOLS
 
