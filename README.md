@@ -8,6 +8,15 @@
 
 <br>
 
+> `SYSTEM STATUS: ONLINE`
+
+Olá! Eu sou **Gabriela**, tenho **17 anos** e sou estudante de **Desenvolvimento de Sistemas Integrado ao Ensino Médio no IFSP — Campus São Paulo**.
+
+Atualmente estou construindo minha base em desenvolvendo softwares enquanto direciono meus estudos para **Cybersecurity**.
+
+Tenho interesse em tecnologia como um todo, e busco sempre entender como posso construir, analisar e proteger de uma boa maneira
+<br>
+
 <a href="https://github.com/EuGranola">
 <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=BF5FFF">
 </a>
@@ -42,14 +51,24 @@
 <tr>
 <td width="65%" valign="top">
 
-> `SYSTEM STATUS: ONLINE`
 
-Olá! Eu sou **Gabriela**, tenho **17 anos** e sou estudante de **Desenvolvimento de Sistemas Integrado ao Ensino Médio no IFSP — Campus São Paulo**.
+### PROGRAMMING
 
-Atualmente estou construindo minha base em desenvolvimento de software enquanto direciono meus estudos para **Cybersecurity**.
+<img src="https://skillicons.dev/icons?i=c,python,js,mysql" />
 
-Tenho interesse em tecnologia, desenvolvimento, sistemas e segurança, buscando entender não apenas como construir soluções, mas também como **analisar e proteger sistemas**.
+<br><br>
 
-<br>
+### SYSTEMS
+
+<img src="https://skillicons.dev/icons?i=linux,debian,windows" />
+
+<br><br>
+
+### TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</div>
+
 
 <div> <a href="https://github.com/EuGranola"> <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuGranola&layout=compact&langs_count=7&theme=dracula"/> <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=EuGranola&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> </div>
