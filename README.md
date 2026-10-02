@@ -27,13 +27,19 @@ Tenho interesse em tecnologia como um todo e busco sempre entender como posso **
 <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=BF5FFF">
 </a>
 
+<a href="mailto:gabriela.dpaula.scorrea@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=BF5FFF">
+</a>
+
 <a href="https://www.youtube.com/channel/UCaASmXjz2UZCzdox_9wNwXQ">
 <img src="https://img.shields.io/badge/YOUTUBE-0D1117?style=for-the-badge&logo=youtube&logoColor=FF0080">
 </a>
 
-<a href="mailto:gabriela.dpaula.scorrea@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=BF5FFF">
+<a href="https://www.instagram.com/eugranola/">
+<img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=FF0080">
 </a>
+
+
 
 <br><br>
 
