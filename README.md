@@ -1,7 +1,6 @@
 <div align="center">
 
-# GABRIELA SILVESTRE CORREA 
-<img src="https://www.messletters.com/images/backgrounds/body.gif" width="500">
+# GABRIELA SILVESTRE CORREA 💫
 
 ### `SYSTEMS DEVELOPMENT STUDENT`
 
