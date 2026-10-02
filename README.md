@@ -10,10 +10,10 @@
 
 > `SYSTEM STATUS: ONLINE`
 
+### `01 // ABOUT ME`
+
 Olá! Eu sou **Gabriela**, tenho **17 anos** e sou estudante de **Desenvolvimento de Sistemas Integrado ao Ensino Médio no IFSP — Campus São Paulo**.
-
 Atualmente estou construindo minha base em desenvolvendo softwares enquanto direciono meus estudos para **Cybersecurity**.
-
 Tenho interesse em tecnologia como um todo, e busco sempre entender como posso construir, analisar e proteger de uma boa maneira
 <br>
 
@@ -43,7 +43,7 @@ Tenho interesse em tecnologia como um todo, e busco sempre entender como posso c
 
 <div align="center">
 
-### `01 // ABOUT ME`
+
 
 </div>
 
@@ -57,6 +57,7 @@ Tenho interesse em tecnologia como um todo, e busco sempre entender como posso c
 <img src="https://skillicons.dev/icons?i=c,python,js,mysql" />
 
 <br>
+
 ### SYSTEMS
 
 <img src="https://skillicons.dev/icons?i=linux,debian,windows" />
