@@ -1,79 +1,44 @@
+<div align="center">
 
-# Oioii devs, me chamo Gabriela 👋
----
-## 🚀 Sobre Mim...
+# GABRIELA SILVESTRE CORREA
 
-Tenho 16 anos
----
- Sou aluna de Desenvolvimento de sistemas integrado ao ensino médio no **IFSP - Campus São Paulo** 🎓. 
- Tenho inglês intermediario e sou desenvolvedora
-**Python** 🐍 e **Linguagem C** ⚙️.
+### SYSTEMS DEVELOPMENT STUDENT // CYBERSECURITY PATH
 
-Construindo projetos e buscando expandir meus horizontes!
-- Cursos concluídos na plataforma Alura com foco no aprimoramento da lógica de programação e no desenvolvimento de soluções, grande parte delas desenvolvidas utilizando Scratch.
-- Uso esses dois softwares:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=%3E+INITIALIZING+PROFILE...;%3E+SYSTEMS+DEVELOPMENT+STUDENT;%3E+CYBERSECURITY+PATH+INITIALIZED;%3E+SYSTEM+ONLINE" />
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" 
-           width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>  
-
-   e estou sempre disposta a aprender coisas novas.
----
-## 🛠️ Minhas Habilidades
-
-Aqui estão as principais ferramentas e linguagens que utilizo nos meus projetos:
-
- Categoria | Habilidades |
-| :--- | :--- |
-| *Linguagens de Programação* | Python 🐍, Linguagem C ⚙️, [Java Script] |
-| *Ferramentas e Ambientes* | Git / GitHub, [VS Code],[ Dev C++], [Linux] [ Windows]|
-| *Bancos de Dados* | Estou aprendendo |
----
-<div>
-<a href="https://github.com/EuGranola">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuGranola&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=EuGranola&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-## 💡 Projetos em Destaque
+---
 
-Confira alguns dos meus trabalhos mais recentes. Sinta-se à vontade para explorar os repositórios!
+## `01 // ABOUT ME`
 
-### 1. [Jogo Ossos do ofício]
-> Meu primeiro projeto grande, feito em equipe, um jogo que auxilia nas materias: Biológia, Quimíca e matemática.
->
-> 🚀 **Linguagens:** `javascript` | `linguagem propria do RPGMaker`
->
-> **[🔗 Ver Repositório](https://beatrizminoura-cmyk.github.io/ossos-do-oficio/)**
+> `GABRIELA_CORREA // DEV_PROFILE`
 
-### 2. [Site do jogo]
-> Site com a intenção de apresentar o jogo
->
-> ✨ **Linguagens:** `HTML` | `CSS interno`
->
-> **[🔗 Ver Repositório](https://github.com/EuGranola/Site-do-jogo-vers-o-final)**
+Tenho **17 anos** e sou estudante de **Desenvolvimento de Sistemas Integrado ao Ensino Médio no IFSP — Campus São Paulo**.
 
-### 3. [Pesca Binaria]
-> Um codigo simples em linguagem C para pesquisar valores.
->
-> ⚙️ **Linguagens** `Linguagem C` 
->
-> **[🔗 Ver Repositório](https://github.com/EuGranola/pesca-binaria-Bubble-Sort-Busca-Binaria-/blob/main/Pescando%20Valores)**
+Atualmente, estudo programação, sistemas e banco de dados, enquanto construo minha base para futuramente me especializar em **Cybersecurity**.
 
-> 
+Tenho conhecimentos em **C, Python, JavaScript e MySQL** e trabalho tanto com **Linux** quanto com **Windows 11**.
+
+Meu objetivo é continuar desenvolvendo minhas habilidades em tecnologia, criar projetos e construir minha carreira na área de **Segurança da Informação**.
 
 ---
 
-## 📫 Conecte-se Comigo
+## `02 // SYSTEM STATUS`
 
-Estou sempre aberta a novas ideias e oportunidades de colaboração!
-
-<div>
-<a href="https://www.youtube.com/channel/UCaASmXjz2UZCzdox_9wNwXQ" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://https://www.instagram.com/eugranola/)%7C" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "gabriela.dpaula.scorrea@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/gabriela-silvestre-correa-515566392/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-
-***
-
-
+```text
+╔══════════════════════════════════════════════╗
+║              SYSTEM STATUS                   ║
+╠══════════════════════════════════════════════╣
+║                                              ║
+║  USER .............. GABRIELA_CORREA         ║
+║  AGE ............... 17                      ║
+║  STATUS ............ LEARNING                ║
+║  FIELD ............. SYSTEMS DEVELOPMENT     ║
+║  TARGET ............ CYBERSECURITY           ║
+║                                              ║
+║  SYSTEM ............ ONLINE                  ║
+║  NETWORK ........... CONNECTED               ║
+║  LEARNING .......... ACTIVE                  ║
+║                                              ║
+╚══════════════════════════════════════════════╝
