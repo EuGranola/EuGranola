@@ -1,41 +1,70 @@
+---
+
 <div align="center">
 
-# GABRIELA SILVESTRE CORREA
+## `02 // LANGUAGES & TECHNOLOGIES`
 
-### `SYSTEMS DEVELOPMENT STUDENT`
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=900&color=BF5FFF&center=true&vCenter=true&width=750&lines=%3E+INITIALIZING+PROFILE...;%3E+SYSTEMS+DEVELOPMENT+STUDENT;%3E+CYBERSECURITY+PATH+INITIALIZED;%3E+BUILDING.+LEARNING.+SECURING.;%3E+SYSTEM+ONLINE" />
+<table align="center">
+<tr>
+
+<td align="center" width="33%">
+
+### `PROGRAMMING`
+
+<img src="https://skillicons.dev/icons?i=c,python,js,mysql" />
+
+</td>
+
+<td align="center" width="33%">
+
+### `SYSTEMS`
+
+<img src="https://skillicons.dev/icons?i=linux,debian,windows" />
+
+</td>
+
+<td align="center" width="33%">
+
+### `TOOLS`
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
-> `SYSTEM STATUS: ONLINE`
+<div align="center">
 
-### `01 // ABOUT ME`
+## `03 // GITHUB STATISTICS`
 
-Olá! Eu sou **Gabriela**, tenho **17 anos** e sou estudante de **Desenvolvimento de Sistemas Integrado ao Ensino Médio no IFSP — Campus São Paulo**.
-Atualmente estou construindo minha base em desenvolvendo softwares enquanto direciono meus estudos para **Cybersecurity**.
-Tenho interesse em tecnologia como um todo, e busco sempre entender como posso construir, analisar e proteger de uma boa maneira
 <br>
 
-<a href="https://github.com/EuGranola">
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=BF5FFF">
-</a>
+<table align="center">
+<tr>
 
-<a href="https://www.linkedin.com/in/gabriela-silvestre-correa-515566392/">
-<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=BF5FFF">
-</a>
+<td width="50%" align="center">
 
-<a href="https://www.youtube.com/channel/UCaASmXjz2UZCzdox_9wNwXQ">
-<img src="https://img.shields.io/badge/YOUTUBE-0D1117?style=for-the-badge&logo=youtube&logoColor=FF0080">
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuGranola&layout=compact&langs_count=6&theme=transparent&bg_color=0D1117&title_color=BF5FFF&text_color=FFFFFF&icon_color=FF0080&border_color=BF5FFF"/>
 
-<a href="mailto:gabriela.dpaula.scorrea@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=BF5FFF">
-</a>
+</td>
 
-<br><br>
+<td width="50%" align="center">
 
-<img src="https://komarev.com/ghpvc/?username=EuGranola&style=for-the-badge&color=BF5FFF&label=PROFILE+VIEWS">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EuGranola&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&bg_color=0D1117&title_color=BF5FFF&text_color=FFFFFF&icon_color=FF0080&border_color=BF5FFF"/>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=EuGranola&theme=transparent&hide_border=true&background=0D1117&ring=BF5FFF&fire=FF0080&currStreakLabel=BF5FFF&sideNums=FFFFFF&currStreakNum=BF5FFF&sideLabels=FFFFFF&dates=FFFFFF"/>
 
 </div>
 
@@ -43,32 +72,19 @@ Tenho interesse em tecnologia como um todo, e busco sempre entender como posso c
 
 <div align="center">
 
-
-
-</div>
-
-<table>
-<tr>
-<td width="65%" valign="top">
-
-
-### PROGRAMMING
-
-<img src="https://skillicons.dev/icons?i=c,python,js,mysql" />
+## `04 // CYBERSECURITY PATH`
 
 <br>
 
-### SYSTEMS
-
-<img src="https://skillicons.dev/icons?i=linux,debian,windows" />
-
-<br>
-
-### TOOLS
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-</div>
+`PROGRAMMING`
+&nbsp; → &nbsp;
+`SYSTEMS`
+&nbsp; → &nbsp;
+`LINUX`
+&nbsp; → &nbsp;
+`NETWORKING`
+&nbsp; → &nbsp;
+`CYBERSECURITY`
 
 
-<div> <a href="https://github.com/EuGranola"> <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuGranola&layout=compact&langs_count=7&theme=dracula"/> <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=EuGranola&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> </div>
+
